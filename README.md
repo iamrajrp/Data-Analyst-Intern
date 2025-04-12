@@ -45,5 +45,5 @@ This internship helped me strengthen my data analysis foundations while simulati
 ## 📌 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/iamrajpawar/)  
-- 🌐 Portfolio: [your-website.com](https://www.novypro.com/manage_projects/raj-pawar)  
+- 🌐 [Portfolio](https://www.novypro.com/manage_projects/raj-pawar)  
 - 📧 Email: rajpawar32646@gmail.com
