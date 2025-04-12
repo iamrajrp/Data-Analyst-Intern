@@ -27,16 +27,6 @@ The **DataGlacier Virtual Internship** is a rigorous, hands-on program designed 
 
 ---
 
-## 📁 Repository Structure
-
-```text
-├── Week1/               # Git & version control basics (Theory)
-├── Week2/               # End-to-end data analysis by loading, cleaning, merging, and exploring four cab company datasets and hypothesis testing to deliver actionable business insights
-├── Week3/               # Business Presentation on Week2 Data Analysis to Stakeholders 
-├── README.md            # This file
-
----
-
 ## 🎯 Outcomes
 
 - Completed multiple data analysis and visualization assignments  
