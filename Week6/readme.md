@@ -1,5 +1,9 @@
 # 📝 Data Ingestion and Processing Summary
 
+### Note
+The full cleaned `.gz` output file (~389 MB) exceeds GitHub's file upload limit.
+A smaller 100k-row sample (`sample_100k_cleaned.gz`) is included here for reference.
+
 ## 📂 Dataset Overview
 - **Dataset Used**: NYC Yellow Taxi Trip Records (January–March 2019)
 - **Original Format**: `.sqlite` files (monthly)
@@ -57,4 +61,3 @@ columns:
   - improvement_surcharge
   - total_amount
   - congestion_surcharge
-
